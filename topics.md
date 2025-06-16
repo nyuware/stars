@@ -75,6 +75,7 @@
 - [pentesting](#pentesting)
 - [powershell](#powershell)
 - [privacy](#privacy)
+- [productivity](#productivity)
 - [python](#python)
 - [python3](#python3)
 - [qt](#qt)
@@ -611,6 +612,12 @@
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [Lookyloo/lookyloo](https://github.com/Lookyloo/lookyloo) - Lookyloo is a web interface that allows users to capture a website page and then display a tree of domains that call each other.
+
+## productivity 
+
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
+- [hywax/mafl](https://github.com/hywax/mafl) - Minimalistic flexible homepage
 
 ## python 
 
