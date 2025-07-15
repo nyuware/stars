@@ -149,6 +149,7 @@
 
 ## Java 
 
+- [cpburnz/minecraft-prometheus-exporter](https://github.com/cpburnz/minecraft-prometheus-exporter) - Prometheus exporter for Minecraft.
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 
 ## JavaScript 
@@ -299,6 +300,7 @@
 
 ## TypeScript 
 
+- [posit-dev/positron](https://github.com/posit-dev/positron) - Positron, a next-generation data science IDE
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
