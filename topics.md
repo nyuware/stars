@@ -524,6 +524,8 @@
 
 ## others 
 
+- [posit-dev/positron](https://github.com/posit-dev/positron) - Positron, a next-generation data science IDE
+- [cpburnz/minecraft-prometheus-exporter](https://github.com/cpburnz/minecraft-prometheus-exporter) - Prometheus exporter for Minecraft.
 - [dkpfm/minitap](https://github.com/dkpfm/minitap) - A fun sequencer that runs as a Chrome Extension.
 - [nolenroyalty/url-muncher](https://github.com/nolenroyalty/url-muncher) - a little goblin that eats your URL bar
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
