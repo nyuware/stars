@@ -27,6 +27,7 @@
 - [dart](#dart)
 - [database](#database)
 - [design](#design)
+- [developer-tools](#developer-tools)
 - [discord](#discord)
 - [django](#django)
 - [docker](#docker)
@@ -245,6 +246,11 @@
 ## design 
 
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
+
+## developer-tools 
+
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 
 ## discord 
 
