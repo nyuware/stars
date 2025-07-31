@@ -162,7 +162,7 @@
 ## Kotlin 
 
 - [siper/Youamp](https://github.com/siper/Youamp) - Material You kotlin multiplatform player for subsonic music stream servers
-- [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
+- [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
 - [d4rken-org/capod](https://github.com/d4rken-org/capod) - A companion app for AirPods on Android.
 - [sirekanian/outline](https://github.com/sirekanian/outline) - Android application for managing Outline servers
 - [element-hq/element-android](https://github.com/element-hq/element-android) - A Matrix collaboration client for Android.
