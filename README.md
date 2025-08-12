@@ -227,6 +227,7 @@
 
 ## Rust 
 
+- [seeyebe/gmap](https://github.com/seeyebe/gmap) - Command-line tool for visualizing Git activity
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast, feature-rich static code analyzer & language server for Python
