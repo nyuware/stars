@@ -54,6 +54,7 @@
 - [java](#java)
 - [javascript](#javascript)
 - [json](#json)
+- [kali-linux](#kali-linux)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [linux](#linux)
@@ -442,6 +443,10 @@
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
+
+## kali-linux 
+
+- [codingo/Reconnoitre](https://github.com/codingo/Reconnoitre) - A security tool for multithreaded information gathering and service enumeration whilst building directory structures to store results, along with writing out recommendations for further testing.
 
 ## kotlin 
 
