@@ -33,6 +33,7 @@
 - [discord](#discord)
 - [django](#django)
 - [docker](#docker)
+- [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
 - [embedded](#embedded)
@@ -304,6 +305,10 @@
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+
+## documentation 
+
+- [mayanayza/netvisor](https://github.com/mayanayza/netvisor) - Automatically discover and visually document network infrastructure.
 
 ## dotfiles 
 
@@ -754,6 +759,7 @@
 
 ## rust 
 
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast, feature-rich static code analyzer & language server for Python
@@ -823,6 +829,7 @@
 
 ## self-hosted 
 
+- [mayanayza/netvisor](https://github.com/mayanayza/netvisor) - Automatically discover and visually document network infrastructure.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History)
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
@@ -901,6 +908,7 @@
 
 ## visualization 
 
+- [mayanayza/netvisor](https://github.com/mayanayza/netvisor) - Automatically discover and visually document network infrastructure.
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [red-data-tools/YouPlot](https://github.com/red-data-tools/YouPlot) - A command line tool that draw plots on the terminal.
 
