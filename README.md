@@ -12,6 +12,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Dart](#dart)
+- [EJS](#ejs)
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -93,6 +94,10 @@
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [commetchat/commet](https://github.com/commetchat/commet) - Your space to connect
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for macOS, Windows, GNU/Linux & Android.
+
+## EJS 
+
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator
 
 ## Go 
 
@@ -236,7 +241,7 @@
 ## Rust 
 
 - [pmpetit/pglinter](https://github.com/pmpetit/pglinter) - database linter rules
-- [mayanayza/netvisor](https://github.com/mayanayza/netvisor) - Automatically discover and visually document network infrastructure.
+- [netvisor-io/netvisor](https://github.com/netvisor-io/netvisor) - Automatically discover and visually document network infrastructure.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [seeyebe/gmap](https://github.com/seeyebe/gmap) - Command-line tool for visualizing Git activity
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
