@@ -265,6 +265,7 @@
 
 ## database 
 
+- [datawan-labs/pg](https://github.com/datawan-labs/pg) - In Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
@@ -288,7 +289,7 @@
 
 ## docker 
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based VPN and proxy for remote access to anything anywhere
 - [iximiuz/cdebug](https://github.com/iximiuz/cdebug) - cdebug - a swiss army knife of container debugging
 - [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
@@ -452,7 +453,7 @@
 
 ## iot 
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based VPN and proxy for remote access to anything anywhere
 - [tock/tock](https://github.com/tock/tock) - A secure embedded operating system for microcontrollers
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [therealsaumil/emux](https://github.com/therealsaumil/emux) - EMUX Firmware Emulation Framework (formerly ARMX)
@@ -585,6 +586,7 @@
 
 ## others 
 
+- [cloudflare/cloudflare-prometheus-exporter](https://github.com/cloudflare/cloudflare-prometheus-exporter) - Export Cloudflare metrics to Prometheus. Built on Cloudflare Workers with Durable Objects for stateful metric accumulation.
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator
 - [SimonMacer/AnWave](https://github.com/SimonMacer/AnWave) - AnWave Personal Development Project - Manage and customize AMD Radeon drivers and more
 - [pmpetit/pglinter](https://github.com/pmpetit/pglinter) - database linter rules
@@ -683,6 +685,7 @@
 
 ## postgresql 
 
+- [datawan-labs/pg](https://github.com/datawan-labs/pg) - In Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 
 ## powershell 
@@ -740,6 +743,7 @@
 
 ## react 
 
+- [datawan-labs/pg](https://github.com/datawan-labs/pg) - In Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
@@ -832,7 +836,7 @@
 ## self-hosted 
 
 - [netvisor-io/netvisor](https://github.com/netvisor-io/netvisor) - Automatically discover and visually document network infrastructure.
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based VPN and proxy for remote access to anything anywhere
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History)
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
@@ -891,6 +895,7 @@
 
 ## typescript 
 
+- [datawan-labs/pg](https://github.com/datawan-labs/pg) - In Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 
@@ -916,6 +921,7 @@
 
 ## vpn 
 
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based VPN and proxy for remote access to anything anywhere
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 - [sirekanian/outline](https://github.com/sirekanian/outline) - Android application for managing Outline servers
 
