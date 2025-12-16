@@ -312,7 +312,7 @@
 
 ## documentation 
 
-- [netvisor-io/netvisor](https://github.com/netvisor-io/netvisor) - Automatically discover and visually document network infrastructure.
+- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Clean network diagrams. One-time setup, zero upkeep.
 
 ## dotfiles 
 
@@ -843,7 +843,7 @@
 
 ## self-hosted 
 
-- [netvisor-io/netvisor](https://github.com/netvisor-io/netvisor) - Automatically discover and visually document network infrastructure.
+- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Clean network diagrams. One-time setup, zero upkeep.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History)
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
@@ -927,7 +927,7 @@
 
 ## visualization 
 
-- [netvisor-io/netvisor](https://github.com/netvisor-io/netvisor) - Automatically discover and visually document network infrastructure.
+- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Clean network diagrams. One-time setup, zero upkeep.
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [red-data-tools/YouPlot](https://github.com/red-data-tools/YouPlot) - A command line tool that draw plots on the terminal.
 
