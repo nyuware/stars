@@ -12,7 +12,6 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Dart](#dart)
-- [EJS](#ejs)
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -95,10 +94,6 @@
 - [commetchat/commet](https://github.com/commetchat/commet) - Your space to connect
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for macOS, Windows, GNU/Linux & Android.
 
-## EJS 
-
-- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator
-
 ## Go 
 
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
@@ -151,6 +146,7 @@
 
 ## HTML 
 
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator
 - [mr-r3b00t/crime-mapper](https://github.com/mr-r3b00t/crime-mapper) - A tool for mapping cyber crime
 - [mprimi/portable-secret](https://github.com/mprimi/portable-secret) - Better privacy without special software
 
