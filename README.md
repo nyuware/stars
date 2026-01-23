@@ -68,7 +68,7 @@
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 - [es3n1n/defendnot](https://github.com/es3n1n/defendnot) - An even funnier way to disable windows defender. (through WSC api)
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
-- [binarly-io/efiXplorer](https://github.com/binarly-io/efiXplorer) - IDA plugin and loader for UEFI firmware analysis and reverse engineering automation
+- [REhints/efiXplorer](https://github.com/REhints/efiXplorer) - IDA plugin and loader for UEFI firmware analysis and reverse engineering automation
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
@@ -231,6 +231,7 @@
 
 ## Rust 
 
+- [trumank/repak](https://github.com/trumank/repak) - Unreal Engine .pak file library and CLI in rust
 - [pmpetit/pglinter](https://github.com/pmpetit/pglinter) - database linter rules
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Clean network diagrams. One-time setup, zero upkeep.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
