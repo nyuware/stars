@@ -151,7 +151,7 @@
 
 ## Java 
 
-- [hawolt/no-ads](https://github.com/hawolt/no-ads) - 
+- [hawolt/twitch-adblock](https://github.com/hawolt/twitch-adblock) - 
 - [cpburnz/minecraft-prometheus-exporter](https://github.com/cpburnz/minecraft-prometheus-exporter) - Prometheus exporter for Minecraft.
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 
