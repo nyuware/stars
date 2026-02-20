@@ -617,6 +617,7 @@
 
 ## others 
 
+- [wlphi/ess-docker-compose](https://github.com/wlphi/ess-docker-compose) - Element Server Suite on Docker Compose
 - [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) - 
 - [rohitdhas/shittier](https://github.com/rohitdhas/shittier) - Shittier is an unconventional code formatting tool
 - [hawolt/twitch-adblock](https://github.com/hawolt/twitch-adblock) - 
