@@ -217,6 +217,7 @@
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
+- [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) - A programmable MITM proxy that intercepts HTTP/HTTPS traffic so you don't have to guess what your app is    doing. Forward & reverse modes, TLS interception, TUI, terminal, and web GUI.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [red-data-tools/YouPlot](https://github.com/red-data-tools/YouPlot) - A command line tool that draw plots on the terminal.
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
@@ -451,7 +452,6 @@
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [matrix-org/pantalaimon](https://github.com/matrix-org/pantalaimon) - E2EE aware proxy daemon for matrix clients.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) - A MITM Proxy 🧑‍💻! Toolkit for HTTP/1, HTTP/2, and WebSockets with SSL/TLS Capabilities. Learning Project.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
@@ -469,7 +469,6 @@
 
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
-- [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) - A MITM Proxy 🧑‍💻! Toolkit for HTTP/1, HTTP/2, and WebSockets with SSL/TLS Capabilities. Learning Project.
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
@@ -809,7 +808,7 @@
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
-- [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) - A MITM Proxy 🧑‍💻! Toolkit for HTTP/1, HTTP/2, and WebSockets with SSL/TLS Capabilities. Learning Project.
+- [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) - A programmable MITM proxy that intercepts HTTP/HTTPS traffic so you don't have to guess what your app is    doing. Forward & reverse modes, TLS interception, TUI, terminal, and web GUI.
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -942,6 +941,7 @@
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
+- [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) - A programmable MITM proxy that intercepts HTTP/HTTPS traffic so you don't have to guess what your app is    doing. Forward & reverse modes, TLS interception, TUI, terminal, and web GUI.
 - [red-data-tools/YouPlot](https://github.com/red-data-tools/YouPlot) - A command line tool that draw plots on the terminal.
 
 ## typescript 
