@@ -257,7 +257,7 @@
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [cristiand391/zj-quit](https://github.com/cristiand391/zj-quit) - A friendly `quit` plugin for zellij
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
-- [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) - A MITM Proxy 🧑‍💻! Toolkit for HTTP/1, HTTP/2, and WebSockets with SSL/TLS Capabilities. Learning Project.
+- [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) - A programmable MITM proxy that intercepts HTTP/HTTPS traffic so you don't have to guess what your app is    doing. Forward & reverse modes, TLS interception, TUI, terminal, and web GUI.
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
