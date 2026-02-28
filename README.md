@@ -92,6 +92,8 @@
 
 ## Go 
 
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [hellotimking/clog](https://github.com/hellotimking/clog) - A high-performance, real-time terminal dashboard for Caddy JSON logs. Features live RPS tracking, status code distribution, and latency analytics with near-zero CPU overhead.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
 - [linuxboot/fiano](https://github.com/linuxboot/fiano) - Go-based tools for modifying UEFI firmware
