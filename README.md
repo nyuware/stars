@@ -297,7 +297,6 @@
 - [usenocturne/nocturne](https://github.com/usenocturne/nocturne) - The most advanced custom firmware for the Spotify Car Thing.
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
-- [ponces/treble_aosp](https://github.com/ponces/treble_aosp) - Script and patches for building TrebleDroid AOSP
 - [CachyOS/linux-cachyos-deb](https://github.com/CachyOS/linux-cachyos-deb) - CachyOS cli kernel builder for deb based distros
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
