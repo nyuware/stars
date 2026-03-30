@@ -712,7 +712,6 @@
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [tandasat/barevisor](https://github.com/tandasat/barevisor) - A bare minimum hypervisor on AMD and Intel processors for learners.
 - [phhusson/treble_experimentations](https://github.com/phhusson/treble_experimentations) - Notes about tinkering with Android Project Treble
-- [ponces/treble_aosp](https://github.com/ponces/treble_aosp) - Script and patches for building TrebleDroid AOSP
 - [CachyOS/linux-cachyos-deb](https://github.com/CachyOS/linux-cachyos-deb) - CachyOS cli kernel builder for deb based distros
 - [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available
 - [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
