@@ -251,6 +251,7 @@
 
 ## command-line 
 
+- [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
@@ -711,6 +712,7 @@
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [tandasat/barevisor](https://github.com/tandasat/barevisor) - A bare minimum hypervisor on AMD and Intel processors for learners.
 - [phhusson/treble_experimentations](https://github.com/phhusson/treble_experimentations) - Notes about tinkering with Android Project Treble
+- [ponces/treble_aosp](https://github.com/ponces/treble_aosp) - Script and patches for building TrebleDroid AOSP
 - [CachyOS/linux-cachyos-deb](https://github.com/CachyOS/linux-cachyos-deb) - CachyOS cli kernel builder for deb based distros
 - [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available
 - [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
@@ -840,6 +842,7 @@
 
 ## rust 
 
+- [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
