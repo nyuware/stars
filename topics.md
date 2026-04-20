@@ -125,6 +125,7 @@
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [ui](#ui)
+- [unreal-engine](#unreal-engine)
 - [video](#video)
 - [vim](#vim)
 - [visualization](#visualization)
@@ -684,6 +685,7 @@
 
 ## others 
 
+- [a2x/cs2-dumper](https://github.com/a2x/cs2-dumper) - Counter-Strike: 2 Offset Dumper
 - [orinimron123/DriverExplorer](https://github.com/orinimron123/DriverExplorer) - A Windows kernel driver viewer and manager built in Rust — real-time enumeration, signature verification, SCM   operations, and multi-format exports with a modern dark-themed GUI.
 - [wlphi/ess-docker-compose](https://github.com/wlphi/ess-docker-compose) - Element Server Suite on Docker Compose
 - [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) - 
@@ -1040,6 +1042,10 @@
 ## ui 
 
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+
+## unreal-engine 
+
+- [Spuckwaffel/UEDumper](https://github.com/Spuckwaffel/UEDumper) - The most powerful Unreal Engine Dumper and Editor for UE 4.19 - 5.3
 
 ## video 
 
