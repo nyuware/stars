@@ -65,6 +65,7 @@
 
 ## C++ 
 
+- [Spuckwaffel/UEDumper](https://github.com/Spuckwaffel/UEDumper) - The most powerful Unreal Engine Dumper and Editor for UE 4.19 - 5.3
 - [wolfpld/tracy](https://github.com/wolfpld/tracy) - Frame profiler
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [es3n1n/defendnot](https://github.com/es3n1n/defendnot) - An even funnier way to disable windows defender. (through WSC api)
@@ -242,6 +243,7 @@
 
 ## Rust 
 
+- [a2x/cs2-dumper](https://github.com/a2x/cs2-dumper) - Counter-Strike: 2 Offset Dumper
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [orinimron123/DriverExplorer](https://github.com/orinimron123/DriverExplorer) - A Windows kernel driver viewer and manager built in Rust — real-time enumeration, signature verification, SCM   operations, and multi-format exports with a modern dark-themed GUI.
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
