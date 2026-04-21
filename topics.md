@@ -685,6 +685,7 @@
 
 ## others 
 
+- [dougburks/ohmypcap](https://github.com/dougburks/ohmypcap) - A standalone web application for analyzing PCAP files using Suricata
 - [a2x/cs2-dumper](https://github.com/a2x/cs2-dumper) - Counter-Strike: 2 Offset Dumper
 - [orinimron123/DriverExplorer](https://github.com/orinimron123/DriverExplorer) - A Windows kernel driver viewer and manager built in Rust — real-time enumeration, signature verification, SCM   operations, and multi-format exports with a modern dark-themed GUI.
 - [wlphi/ess-docker-compose](https://github.com/wlphi/ess-docker-compose) - Element Server Suite on Docker Compose
