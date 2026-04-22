@@ -300,6 +300,7 @@
 
 ## Shell 
 
+- [dougburks/ohmydebn](https://github.com/dougburks/ohmydebn) - OhMyDebn is a debonair Linux platform that gives you the stability of the Debian distro, the ease of use of the Cinnamon desktop, the beauty of Omarchy, and the power of AI
 - [wlphi/ess-docker-compose](https://github.com/wlphi/ess-docker-compose) - Element Server Suite on Docker Compose
 - [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 - [usenocturne/nocturne](https://github.com/usenocturne/nocturne) - The most advanced custom firmware for the Spotify Car Thing.
