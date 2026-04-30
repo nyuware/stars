@@ -684,7 +684,7 @@
 
 ## others 
 
-- [dougburks/ohmydebn](https://github.com/dougburks/ohmydebn) - OhMyDebn is a debonair Linux platform that gives you the stability of the Debian distro, the ease of use of the Cinnamon desktop, the beauty of Omarchy, and the power of AI
+- [dougburks/ohmydebn](https://github.com/dougburks/ohmydebn) - OhMyDebn is a debonair Linux desktop for power users. It gives you the stability of the Debian distro, the ease of use of the Cinnamon desktop, and the power of AI, containers, and virtualization.
 - [dougburks/ohmypcap](https://github.com/dougburks/ohmypcap) - A standalone web application for analyzing PCAP files using Suricata
 - [a2x/cs2-dumper](https://github.com/a2x/cs2-dumper) - Counter-Strike: 2 Offset Dumper
 - [orinimron123/DriverExplorer](https://github.com/orinimron123/DriverExplorer) - A Windows kernel driver viewer and manager built in Rust — real-time enumeration, signature verification, SCM   operations, and multi-format exports with a modern dark-themed GUI.
