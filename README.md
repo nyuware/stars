@@ -244,6 +244,7 @@
 
 ## Rust 
 
+- [Kopuz-org/kopuz](https://github.com/Kopuz-org/kopuz) - Your next music player
 - [a2x/cs2-dumper](https://github.com/a2x/cs2-dumper) - Counter-Strike: 2 Offset Dumper
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [orinimron123/DriverExplorer](https://github.com/orinimron123/DriverExplorer) - A Windows kernel driver viewer and manager built in Rust — real-time enumeration, signature verification, SCM   operations, and multi-format exports with a modern dark-themed GUI.
