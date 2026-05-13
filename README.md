@@ -93,7 +93,7 @@
 
 ## Go 
 
-- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - A Better Secrets Scanner built for configurability and speed................................................................................................................SCAN THE WORLD
+- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Scan the world (for secrets)
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
