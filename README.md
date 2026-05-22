@@ -244,6 +244,7 @@
 
 ## Rust 
 
+- [mmalmi/nostr-vpn](https://github.com/mmalmi/nostr-vpn) - 
 - [Kopuz-org/kopuz](https://github.com/Kopuz-org/kopuz) - Your next music player
 - [a2x/cs2-dumper](https://github.com/a2x/cs2-dumper) - Counter-Strike: 2 Offset Dumper
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
