@@ -686,6 +686,7 @@
 
 ## others 
 
+- [mmalmi/nostr-vpn](https://github.com/mmalmi/nostr-vpn) - 
 - [dougburks/ohmydebn](https://github.com/dougburks/ohmydebn) - OhMyDebn is a debonair Linux desktop for power users. It gives you the stability of the Debian distro, the ease of use of the Cinnamon desktop, and the power of AI, containers, and virtualization.
 - [dougburks/ohmypcap](https://github.com/dougburks/ohmypcap) - OhMyPCAP is a FOSS web application for analyzing PCAP files using Suricata and other files using YARA. View network alerts and file alerts, browse network metadata (DNS, HTTP, TLS, flows), extract ASC
 - [a2x/cs2-dumper](https://github.com/a2x/cs2-dumper) - Counter-Strike: 2 Offset Dumper
