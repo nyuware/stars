@@ -43,6 +43,7 @@
 
 ## C 
 
+- [dmtrKovalenko/workspace-climate-control](https://github.com/dmtrKovalenko/workspace-climate-control) - Your own open-source CO2 sensor with ready to use TUI
 - [emproof-com/workshop_firmware_reverse_engineering](https://github.com/emproof-com/workshop_firmware_reverse_engineering) - Workshop on firmware reverse engineering
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
