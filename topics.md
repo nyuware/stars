@@ -42,6 +42,7 @@
 - [dotnet](#dotnet)
 - [embedded](#embedded)
 - [emulator](#emulator)
+- [esp32](#esp32)
 - [firefox](#firefox)
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
@@ -367,6 +368,10 @@
 ## emulator 
 
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
+
+## esp32 
+
+- [dmtrKovalenko/workspace-climate-control](https://github.com/dmtrKovalenko/workspace-climate-control) - Your own open-source CO2 sensor with ready to use TUI
 
 ## firefox 
 
@@ -1000,6 +1005,7 @@
 
 ## tui 
 
+- [dmtrKovalenko/workspace-climate-control](https://github.com/dmtrKovalenko/workspace-climate-control) - Your own open-source CO2 sensor with ready to use TUI
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal.
