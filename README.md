@@ -93,6 +93,7 @@
 
 ## Go 
 
+- [dell/iDRAC-Telemetry-Reference-Tools](https://github.com/dell/iDRAC-Telemetry-Reference-Tools) - Reference toolset for PowerEdge telemetry metric collection and integration with analytics and visualization solutions.
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [hellotimking/clog](https://github.com/hellotimking/clog) - A high-performance, real-time terminal dashboard for Caddy JSON logs. Features live RPS tracking, status code distribution, and latency analytics with near-zero CPU overhead.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
