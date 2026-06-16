@@ -96,6 +96,7 @@
 - [powershell](#powershell)
 - [privacy](#privacy)
 - [productivity](#productivity)
+- [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
 - [qt](#qt)
@@ -413,6 +414,7 @@
 
 ## go 
 
+- [Ident-1090/Ident](https://github.com/Ident-1090/Ident) - Receiver-local ADS-B operator console for readsb, dump1090-fa, and PiAware.
 - [hellotimking/clog](https://github.com/hellotimking/clog) - A high-performance, real-time terminal dashboard for Caddy JSON logs. Features live RPS tracking, status code distribution, and latency analytics with near-zero CPU overhead.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [linuxboot/fiano](https://github.com/linuxboot/fiano) - Go-based tools for modifying UEFI firmware
@@ -666,6 +668,7 @@
 
 ## others 
 
+- [Makisuo/maple](https://github.com/Makisuo/maple) - OpenTelemetry observability platform
 - [cloudflare/pint](https://github.com/cloudflare/pint) - Prometheus rule linter/validator
 - [mmalmi/nostr-vpn](https://github.com/mmalmi/nostr-vpn) - 
 - [orinimron123/DriverExplorer](https://github.com/orinimron123/DriverExplorer) - A Windows kernel driver viewer and manager built in Rust — real-time enumeration, signature verification, SCM   operations, and multi-format exports with a modern dark-themed GUI.
@@ -794,6 +797,10 @@
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [hywax/mafl](https://github.com/hywax/mafl) - Minimalistic flexible homepage
 
+## pwa 
+
+- [Ident-1090/Ident](https://github.com/Ident-1090/Ident) - Receiver-local ADS-B operator console for readsb, dump1090-fa, and PiAware.
+
 ## python 
 
 - [arpanghosh8453/fitbit-grafana](https://github.com/arpanghosh8453/fitbit-grafana) - A script to fetch data from Fitbit servers using their API and store the data in a local influxdb database and visualize them with Grafana
@@ -828,6 +835,7 @@
 
 ## react 
 
+- [Ident-1090/Ident](https://github.com/Ident-1090/Ident) - Receiver-local ADS-B operator console for readsb, dump1090-fa, and PiAware.
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
