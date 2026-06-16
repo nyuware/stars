@@ -328,6 +328,8 @@
 
 ## TypeScript 
 
+- [Makisuo/maple](https://github.com/Makisuo/maple) - OpenTelemetry observability platform
+- [Ident-1090/Ident](https://github.com/Ident-1090/Ident) - Receiver-local ADS-B operator console for readsb, dump1090-fa, and PiAware.
 - [rohitdhas/shittier](https://github.com/rohitdhas/shittier) - Shittier is an unconventional code formatting tool
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and El
 - [cloudflare/cloudflare-prometheus-exporter](https://github.com/cloudflare/cloudflare-prometheus-exporter) - Export Cloudflare metrics to Prometheus. Built on Cloudflare Workers with Durable Objects for stateful metric accumulation.
