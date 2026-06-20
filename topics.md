@@ -13,17 +13,21 @@
 - [angular](#angular)
 - [api](#api)
 - [archlinux](#archlinux)
+- [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [backend](#backend)
 - [bash](#bash)
+- [bot](#bot)
 - [bugbounty](#bugbounty)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [cli](#cli)
 - [cloud](#cloud)
 - [cms](#cms)
+- [code-review](#code-review)
 - [command-line](#command-line)
 - [cpp](#cpp)
 - [cryptography](#cryptography)
@@ -74,6 +78,7 @@
 - [laravel](#laravel)
 - [library](#library)
 - [linux](#linux)
+- [llm](#llm)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [microsoft](#microsoft)
@@ -87,6 +92,7 @@
 - [nodejs](#nodejs)
 - [nosql](#nosql)
 - [open-source](#open-source)
+- [openai](#openai)
 - [opengl](#opengl)
 - [operating-system](#operating-system)
 - [osint](#osint)
@@ -117,6 +123,7 @@
 - [server](#server)
 - [shell](#shell)
 - [sketch](#sketch)
+- [spring-boot](#spring-boot)
 - [sql](#sql)
 - [sqlite](#sqlite)
 - [svelte](#svelte)
@@ -150,6 +157,7 @@
 
 ## ai 
 
+- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - AI-Git-Bot is a lightweight, self-hostable gateway application that connects your Git platforms with AI providers
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites
 
@@ -187,6 +195,10 @@
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements.
 
+## automation 
+
+- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - AI-Git-Bot is a lightweight, self-hostable gateway application that connects your Git platforms with AI providers
+
 ## awesome 
 
 - [mkitzmann/awwesome](https://github.com/mkitzmann/awwesome) - Enhanced user interface for Awesome Selfhosted
@@ -207,6 +219,10 @@
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+
+## bot 
+
+- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - AI-Git-Bot is a lightweight, self-hostable gateway application that connects your Git platforms with AI providers
 
 ## bugbounty 
 
@@ -229,6 +245,10 @@
 - [cppcheck-opensource/cppcheck](https://github.com/cppcheck-opensource/cppcheck) - static analysis of C/C++ code
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+
+## chatbot 
+
+- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - AI-Git-Bot is a lightweight, self-hostable gateway application that connects your Git platforms with AI providers
 
 ## chatgpt 
 
@@ -265,6 +285,10 @@
 ## cms 
 
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+
+## code-review 
+
+- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - AI-Git-Bot is a lightweight, self-hostable gateway application that connects your Git platforms with AI providers
 
 ## command-line 
 
@@ -323,6 +347,7 @@
 
 ## devops 
 
+- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - AI-Git-Bot is a lightweight, self-hostable gateway application that connects your Git platforms with AI providers
 - [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 
 ## discord 
@@ -425,6 +450,7 @@
 
 ## github 
 
+- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - AI-Git-Bot is a lightweight, self-hostable gateway application that connects your Git platforms with AI providers
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 
 ## go 
@@ -536,6 +562,7 @@
 
 ## java 
 
+- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - AI-Git-Bot is a lightweight, self-hostable gateway application that connects your Git platforms with AI providers
 - [LucasFaudman/apkscan](https://github.com/LucasFaudman/apkscan) - Scan for secrets, endpoints, and other sensitive data after decompiling and deobfuscating Android files. (.apk, .xapk, .dex, .jar, .class, .smali, .zip, .aar, .arsc, .aab, .jadx.kts).
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 
@@ -599,6 +626,10 @@
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS & Android.
+
+## llm 
+
+- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - AI-Git-Bot is a lightweight, self-hostable gateway application that connects your Git platforms with AI providers
 
 ## machine-learning 
 
@@ -665,8 +696,12 @@
 
 ## open-source 
 
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native OSS search engine for observability
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+
+## openai 
+
+- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - AI-Git-Bot is a lightweight, self-hostable gateway application that connects your Git platforms with AI providers
 
 ## opengl 
 
@@ -882,7 +917,7 @@
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [Kopuz-org/kopuz](https://github.com/Kopuz-org/kopuz) - Your next music player
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native OSS search engine for observability
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
@@ -954,6 +989,7 @@
 
 ## self-hosted 
 
+- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - AI-Git-Bot is a lightweight, self-hostable gateway application that connects your Git platforms with AI providers
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network diagrams that update themselves
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History)
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
@@ -981,6 +1017,10 @@
 ## sketch 
 
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
+
+## spring-boot 
+
+- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - AI-Git-Bot is a lightweight, self-hostable gateway application that connects your Git platforms with AI providers
 
 ## sql 
 
