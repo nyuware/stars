@@ -330,6 +330,7 @@
 
 ## TypeScript 
 
+- [FlavioAdamo/openfit](https://github.com/FlavioAdamo/openfit) - Desktop dashboard and Codex-powered assistant for Fitbit data
 - [Makisuo/maple](https://github.com/Makisuo/maple) - OpenTelemetry observability platform
 - [Ident-1090/Ident](https://github.com/Ident-1090/Ident) - Receiver-local ADS-B operator console for readsb, dump1090-fa, and PiAware.
 - [rohitdhas/shittier](https://github.com/rohitdhas/shittier) - Shittier is an unconventional code formatting tool
