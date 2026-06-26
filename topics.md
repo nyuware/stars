@@ -719,6 +719,7 @@
 
 ## others 
 
+- [FlavioAdamo/openfit](https://github.com/FlavioAdamo/openfit) - Desktop dashboard and Codex-powered assistant for Fitbit data
 - [Makisuo/maple](https://github.com/Makisuo/maple) - OpenTelemetry observability platform
 - [cloudflare/pint](https://github.com/cloudflare/pint) - Prometheus rule linter/validator
 - [mmalmi/nostr-vpn](https://github.com/mmalmi/nostr-vpn) - 
