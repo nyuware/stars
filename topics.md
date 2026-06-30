@@ -51,7 +51,6 @@
 - [firefox](#firefox)
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
-- [framework](#framework)
 - [frontend](#frontend)
 - [gamedev](#gamedev)
 - [gaming](#gaming)
@@ -420,10 +419,6 @@
 ## flutter-apps 
 
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-
-## framework 
-
-- [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 
 ## frontend 
 
