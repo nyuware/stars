@@ -715,7 +715,7 @@
 ## others 
 
 - [FlavioAdamo/openfit](https://github.com/FlavioAdamo/openfit) - Desktop dashboard and Codex-powered assistant for Fitbit data
-- [Makisuo/maple](https://github.com/Makisuo/maple) - OpenTelemetry observability platform
+- [MapleTechLabs/maple](https://github.com/MapleTechLabs/maple) - OpenTelemetry observability platform
 - [cloudflare/pint](https://github.com/cloudflare/pint) - Prometheus rule linter/validator
 - [mmalmi/nostr-vpn](https://github.com/mmalmi/nostr-vpn) - 
 - [orinimron123/DriverExplorer](https://github.com/orinimron123/DriverExplorer) - A Windows kernel driver viewer and manager built in Rust — real-time enumeration, signature verification, SCM   operations, and multi-format exports with a modern dark-themed GUI.
