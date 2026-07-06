@@ -495,6 +495,7 @@
 
 ## hacking 
 
+- [YuukiJapanTech/CA8271x](https://github.com/YuukiJapanTech/CA8271x) - Hacking EN-XGSFPP-OMAC, XG-99S, LTF-7263-BH+LTF-7267-BH+
 - [gotr00t0day/Gsec](https://github.com/gotr00t0day/Gsec) - Web Security Scanner
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [root-tanishq/userefuzz](https://github.com/root-tanishq/userefuzz) - User-Agent , X-Forwarded-For and Referer SQLI Fuzzer
