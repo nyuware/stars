@@ -179,6 +179,7 @@
 
 ## Others 
 
+- [YuukiJapanTech/CA8271x](https://github.com/YuukiJapanTech/CA8271x) - Hacking EN-XGSFPP-OMAC, XG-99S, LTF-7263-BH+LTF-7267-BH+
 - [ashish0kumar/windots](https://github.com/ashish0kumar/windots) - my windows setup
 - [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) - 
 - [okibcn/nano-for-windows](https://github.com/okibcn/nano-for-windows) - Windows version of the GNU Nano editor
