@@ -66,6 +66,7 @@
 - [home-assistant](#home-assistant)
 - [http](#http)
 - [https](#https)
+- [ios](#ios)
 - [iot](#iot)
 - [java](#java)
 - [javascript](#javascript)
@@ -549,6 +550,10 @@
 ## https 
 
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+
+## ios 
+
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS, Android & iOS.
 
 ## iot 
 
