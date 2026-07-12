@@ -158,7 +158,7 @@
 
 ## ai 
 
-- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - AI-Git-Bot is a lightweight, self-hostable gateway application that connects your Git platforms with AI providers
+- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - The self-hosted AI workflow automation platform for Git repositories.
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites
 
@@ -198,7 +198,7 @@
 
 ## automation 
 
-- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - AI-Git-Bot is a lightweight, self-hostable gateway application that connects your Git platforms with AI providers
+- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - The self-hosted AI workflow automation platform for Git repositories.
 
 ## awesome 
 
@@ -223,7 +223,7 @@
 
 ## bot 
 
-- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - AI-Git-Bot is a lightweight, self-hostable gateway application that connects your Git platforms with AI providers
+- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - The self-hosted AI workflow automation platform for Git repositories.
 
 ## bugbounty 
 
@@ -249,7 +249,7 @@
 
 ## chatbot 
 
-- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - AI-Git-Bot is a lightweight, self-hostable gateway application that connects your Git platforms with AI providers
+- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - The self-hosted AI workflow automation platform for Git repositories.
 
 ## chatgpt 
 
@@ -289,7 +289,7 @@
 
 ## code-review 
 
-- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - AI-Git-Bot is a lightweight, self-hostable gateway application that connects your Git platforms with AI providers
+- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - The self-hosted AI workflow automation platform for Git repositories.
 
 ## command-line 
 
@@ -348,7 +348,7 @@
 
 ## devops 
 
-- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - AI-Git-Bot is a lightweight, self-hostable gateway application that connects your Git platforms with AI providers
+- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - The self-hosted AI workflow automation platform for Git repositories.
 - [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 
 ## discord 
@@ -447,7 +447,7 @@
 
 ## github 
 
-- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - AI-Git-Bot is a lightweight, self-hostable gateway application that connects your Git platforms with AI providers
+- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - The self-hosted AI workflow automation platform for Git repositories.
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 
 ## go 
@@ -564,7 +564,7 @@
 
 ## java 
 
-- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - AI-Git-Bot is a lightweight, self-hostable gateway application that connects your Git platforms with AI providers
+- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - The self-hosted AI workflow automation platform for Git repositories.
 - [LucasFaudman/apkscan](https://github.com/LucasFaudman/apkscan) - Scan for secrets, endpoints, and other sensitive data after decompiling and deobfuscating Android files. (.apk, .xapk, .dex, .jar, .class, .smali, .zip, .aar, .arsc, .aab, .jadx.kts).
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 
@@ -631,7 +631,7 @@
 
 ## llm 
 
-- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - AI-Git-Bot is a lightweight, self-hostable gateway application that connects your Git platforms with AI providers
+- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - The self-hosted AI workflow automation platform for Git repositories.
 
 ## machine-learning 
 
@@ -639,6 +639,7 @@
 
 ## macos 
 
+- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS, Android & iOS.
 
@@ -707,7 +708,7 @@
 
 ## openai 
 
-- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - AI-Git-Bot is a lightweight, self-hostable gateway application that connects your Git platforms with AI providers
+- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - The self-hosted AI workflow automation platform for Git repositories.
 
 ## opengl 
 
@@ -998,7 +999,7 @@
 
 ## self-hosted 
 
-- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - AI-Git-Bot is a lightweight, self-hostable gateway application that connects your Git platforms with AI providers
+- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - The self-hosted AI workflow automation platform for Git repositories.
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network diagrams that update themselves
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History)
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
@@ -1029,7 +1030,7 @@
 
 ## spring-boot 
 
-- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - AI-Git-Bot is a lightweight, self-hostable gateway application that connects your Git platforms with AI providers
+- [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - The self-hosted AI workflow automation platform for Git repositories.
 
 ## sql 
 
