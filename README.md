@@ -157,6 +157,7 @@
 
 ## Java 
 
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - The self-hosted AI workflow automation platform for Git repositories.
 - [hawolt/twitch-adblock](https://github.com/hawolt/twitch-adblock) - 
 - [cpburnz/minecraft-prometheus-exporter](https://github.com/cpburnz/minecraft-prometheus-exporter) - Prometheus exporter for Minecraft.
@@ -189,10 +190,13 @@
 
 ## PHP 
 
+- [David-Crty/databasement](https://github.com/David-Crty/databasement) - Self-hosted database backup manager with a web UI. Schedule, backup, and restore MySQL, PostgreSQL, MariaDB, Microsoft SQL Server, MongoDB, SQLite & Redis to S3, SFTP, or local storage. SSH Tunnel sup
 - [tchapi/davis](https://github.com/tchapi/davis) - 🗓 A modern, simple, feature-packed, fully translatable admin interface for sabre/dav based on Symfony 7 and Bootstrap
 
 ## Python 
 
+- [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 55+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
+- [dougburks/so-crates](https://github.com/dougburks/so-crates) - SO-CRATES: Security Onion Containerized Rapid Analysis of Threats, Evil, and Sus!
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [arpanghosh8453/fitbit-grafana](https://github.com/arpanghosh8453/fitbit-grafana) - A script to fetch data from Fitbit servers using their API and store the data in a local influxdb database and visualize them with Grafana
