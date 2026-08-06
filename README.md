@@ -167,6 +167,7 @@
 
 ## JavaScript 
 
+- [pixlcore/xyops](https://github.com/pixlcore/xyops) - A complete workflow automation and server monitoring system.
 - [xaitax/x-account-location-device](https://github.com/xaitax/x-account-location-device) - See where any X (Twitter) account posts from and on what device — country flags, device icons & VPN/proxy detection inline on every username. One-click "evidence" cards for OSINT, geo-blocking to filt
 - [nolenroyalty/url-muncher](https://github.com/nolenroyalty/url-muncher) - a little goblin that eats your URL bar
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
