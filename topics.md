@@ -84,6 +84,7 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [malware](#malware)
+- [mcp](#mcp)
 - [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [mobile](#mobile)
@@ -296,6 +297,7 @@
 
 ## code-review 
 
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
 - [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - The self-hosted AI workflow automation platform for Git repositories.
 
 ## command-line 
@@ -379,6 +381,7 @@
 
 ## docker 
 
+- [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [iximiuz/cdebug](https://github.com/iximiuz/cdebug) - cdebug - a swiss army knife of container debugging
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
@@ -484,6 +487,7 @@
 
 ## golang 
 
+- [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [hellotimking/clog](https://github.com/hellotimking/clog) - A high-performance, real-time terminal dashboard for Caddy JSON logs. Features live RPS tracking, status code distribution, and latency analytics with near-zero CPU overhead.
@@ -661,6 +665,10 @@
 
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 
+## mcp 
+
+- [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
+
 ## microsoft 
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
@@ -722,6 +730,7 @@
 
 ## openai 
 
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
 - [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - The self-hosted AI workflow automation platform for Git repositories.
 
 ## opengl 
@@ -741,6 +750,9 @@
 
 ## others 
 
+- [acherkashin/gitea-review-example](https://github.com/acherkashin/gitea-review-example) - 
+- [morpheuslord/PICOTTY](https://github.com/morpheuslord/PICOTTY) - PicoTTY is a simple serial tty serial console or somewhat of a IP KVM cause my homelab was just proxmox so serial is all I need.
+- [mtlynch/picoshare](https://github.com/mtlynch/picoshare) - A minimalist, easy-to-host service for sharing images and other files
 - [pixlcore/xyops](https://github.com/pixlcore/xyops) - A complete workflow automation and server monitoring system.
 - [chattocorp/chatto](https://github.com/chattocorp/chatto) - A fully-featured team and group chat application that you can easily selfhost.
 - [dougburks/so-crates](https://github.com/dougburks/so-crates) - SO-CRATES: Security Onion Containerized Rapid Analysis of Threats, Evil, and Sus!
@@ -1015,6 +1027,7 @@
 
 ## self-hosted 
 
+- [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [David-Crty/databasement](https://github.com/David-Crty/databasement) - Self-hosted database backup manager with a web UI. Schedule, backup, and restore MySQL, PostgreSQL, MariaDB, Microsoft SQL Server, MongoDB, SQLite & Redis to S3, SFTP, Samba or local storage. SSH Tunn
 - [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - The self-hosted AI workflow automation platform for Git repositories.
