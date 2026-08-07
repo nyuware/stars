@@ -94,6 +94,8 @@
 
 ## Go 
 
+- [mtlynch/picoshare](https://github.com/mtlynch/picoshare) - A minimalist, easy-to-host service for sharing images and other files
+- [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [chattocorp/chatto](https://github.com/chattocorp/chatto) - A fully-featured team and group chat application that you can easily selfhost.
 - [cloudflare/pint](https://github.com/cloudflare/pint) - Prometheus rule linter/validator
@@ -183,6 +185,7 @@
 
 ## Others 
 
+- [acherkashin/gitea-review-example](https://github.com/acherkashin/gitea-review-example) - 
 - [ashish0kumar/windots](https://github.com/ashish0kumar/windots) - my windows setup
 - [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) - 
 - [okibcn/nano-for-windows](https://github.com/okibcn/nano-for-windows) - Windows version of the GNU Nano editor
@@ -198,6 +201,8 @@
 
 ## Python 
 
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
+- [morpheuslord/PICOTTY](https://github.com/morpheuslord/PICOTTY) - PicoTTY is a simple serial tty serial console or somewhat of a IP KVM cause my homelab was just proxmox so serial is all I need.
 - [dougburks/so-crates](https://github.com/dougburks/so-crates) - SO-CRATES: Security Onion Containerized Rapid Analysis of Threats, Evil, and Sus!
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
