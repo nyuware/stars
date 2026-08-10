@@ -270,7 +270,7 @@
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal.
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
-- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
+- [wader/fq](https://github.com/wader/fq) - fq - jq for binary formats. Tool, language and decoders for working with binary formats.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
@@ -474,7 +474,7 @@
 - [linuxboot/fiano](https://github.com/linuxboot/fiano) - Go-based tools for modifying UEFI firmware
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal.
-- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
+- [wader/fq](https://github.com/wader/fq) - fq - jq for binary formats. Tool, language and decoders for working with binary formats.
 - [mholt/archives](https://github.com/mholt/archives) - Cross-platform library to create & extract archives, compress & decompress files, and walk virtual file systems across various formats
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
@@ -496,7 +496,7 @@
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal.
-- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
+- [wader/fq](https://github.com/wader/fq) - fq - jq for binary formats. Tool, language and decoders for working with binary formats.
 - [mholt/archives](https://github.com/mholt/archives) - Cross-platform library to create & extract archives, compress & decompress files, and walk virtual file systems across various formats
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
@@ -603,7 +603,7 @@
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [abiosoft/caddy-json-schema](https://github.com/abiosoft/caddy-json-schema) - JSON schema generator for Caddy v2
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
-- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
+- [wader/fq](https://github.com/wader/fq) - fq - jq for binary formats. Tool, language and decoders for working with binary formats.
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 
 ## kali-linux 
@@ -1190,7 +1190,7 @@
 
 ## xml 
 
-- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
+- [wader/fq](https://github.com/wader/fq) - fq - jq for binary formats. Tool, language and decoders for working with binary formats.
 
 ## zsh 
 
