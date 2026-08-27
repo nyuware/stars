@@ -152,7 +152,7 @@
 
 ## HTML 
 
-- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Customized Cloudflare error page generator. (unofficial)
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator for customized Cloudflare error pages. (unofficial)
 - [mr-r3b00t/crime-mapper](https://github.com/mr-r3b00t/crime-mapper) - A tool for mapping cyber crime
 - [mprimi/portable-secret](https://github.com/mprimi/portable-secret) - Better privacy without special software
 
@@ -169,7 +169,7 @@
 
 ## JavaScript 
 
-- [pixlcore/xyops](https://github.com/pixlcore/xyops) - A complete workflow automation and server monitoring system.
+- [pixlcore/xyops](https://github.com/pixlcore/xyops) - The next generation of Cronicle: open-source job scheduling, visual workflows, server monitoring, alerting, and incident response.
 - [xaitax/x-account-location-device](https://github.com/xaitax/x-account-location-device) - See where any X (Twitter) account posts from and on what device — country flags, device icons & VPN/proxy detection inline on every username. One-click "evidence" cards for OSINT, geo-blocking to filt
 - [nolenroyalty/url-muncher](https://github.com/nolenroyalty/url-muncher) - a little goblin that eats your URL bar
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
