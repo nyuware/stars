@@ -235,7 +235,6 @@
 - [Karmaz95/crimson](https://github.com/Karmaz95/crimson) - Web Application Security Testing Tools
 - [1N3/BlackWidow](https://github.com/1N3/BlackWidow) - A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website.
 - [codingo/Reconnoitre](https://github.com/codingo/Reconnoitre) - A security tool for multithreaded information gathering and service enumeration whilst building directory structures to store results, along with writing out recommendations for further testing.
-- [attify/firmware-analysis-toolkit](https://github.com/attify/firmware-analysis-toolkit) - Toolkit to emulate firmware and analyse it for security vulnerabilities
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [signorrayan/RedTeam_toolkit](https://github.com/signorrayan/RedTeam_toolkit) - Red Team Toolkit is an Open-Source Django Offensive Web-App which is keeping the useful offensive tools used in the red-teaming together.
 - [Lookyloo/lookyloo](https://github.com/Lookyloo/lookyloo) - Lookyloo is a web interface that allows users to capture a website page and then display a tree of domains that call each other.
@@ -304,6 +303,7 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [timokoesters/conduit](https://github.com/timokoesters/conduit) - A simple, fast and reliable Matrix server (MIRROR, see https://conduit.rs )
+- [attify/firmware-analysis-toolkit](https://github.com/attify/firmware-analysis-toolkit) - Firmware security research platform combining binary analysis, taint tracing, and emulation across IoT, edge AI, mobile devices, and robotics.
 
 ## Scala 
 
