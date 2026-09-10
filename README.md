@@ -336,7 +336,7 @@
 
 ## Swift 
 
-- [element-hq/element-ios](https://github.com/element-hq/element-ios) - A glossy Matrix collaboration client for iOS
+- [element-hq/element-ios](https://github.com/element-hq/element-ios) - Element's Classic app for Matrix collaboration on iOS
 
 ## Tcl 
 
@@ -344,6 +344,7 @@
 
 ## TypeScript 
 
+- [altcha-org/altcha](https://github.com/altcha-org/altcha) - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism.
 - [MapleTechLabs/maple](https://github.com/MapleTechLabs/maple) - OpenTelemetry observability platform
 - [Ident-1090/Ident](https://github.com/Ident-1090/Ident) - Receiver-local ADS-B operator console for readsb, dump1090-fa, and PiAware.
 - [rohitdhas/shittier](https://github.com/rohitdhas/shittier) - Shittier is an unconventional code formatting tool
