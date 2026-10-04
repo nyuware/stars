@@ -150,6 +150,7 @@
 - [web-assembly](#web-assembly)
 - [website](#website)
 - [windows](#windows)
+- [windows-11](#windows-11)
 - [xml](#xml)
 - [zsh](#zsh)
 
@@ -1199,6 +1200,11 @@
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS, Android & iOS.
+
+## windows-11 
+
+- [ashish0kumar/windots](https://github.com/ashish0kumar/windots) - my windows setup
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 
 ## xml 
 
