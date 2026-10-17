@@ -765,6 +765,8 @@
 
 ## others 
 
+- [devnulling/vrtgen](https://github.com/devnulling/vrtgen) - 
+- [alphafox02/openwrt-one-sdr](https://github.com/alphafox02/openwrt-one-sdr) - Wideband IQ SDR on the OpenWrt One (MediaTek MT7981): 40 MSps 14-bit VITA 49 capture streamed over 2.5 GbE, with a live spectrum viewer.
 - [acherkashin/gitea-review-example](https://github.com/acherkashin/gitea-review-example) - 
 - [morpheuslord/PICOTTY](https://github.com/morpheuslord/PICOTTY) - PicoTTY is a simple serial tty serial console or somewhat of a IP KVM cause my homelab was just proxmox so serial is all I need.
 - [mtlynch/picoshare](https://github.com/mtlynch/picoshare) - A minimalist, easy-to-host service for sharing images and other files
