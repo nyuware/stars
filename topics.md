@@ -97,6 +97,8 @@
 - [nextjs](#nextjs)
 - [nodejs](#nodejs)
 - [nosql](#nosql)
+- [obsidian](#obsidian)
+- [obsidian-md](#obsidian-md)
 - [open-source](#open-source)
 - [openai](#openai)
 - [opengl](#opengl)
@@ -166,6 +168,7 @@
 
 ## ai 
 
+- [jpzk/opensidian](https://github.com/jpzk/opensidian) - A privacy-first, open-source platform for knowledge management and collaboration.
 - [docker/docker-agent](https://github.com/docker/docker-agent) - AI Agent Builder and Runtime by Docker Engineering
 - [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
 - [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - The self-hosted AI workflow automation platform for Git repositories.
@@ -544,6 +547,7 @@
 
 ## hacktoberfest 
 
+- [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
@@ -739,6 +743,14 @@
 
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 
+## obsidian 
+
+- [jpzk/opensidian](https://github.com/jpzk/opensidian) - A privacy-first, open-source platform for knowledge management and collaboration.
+
+## obsidian-md 
+
+- [jpzk/opensidian](https://github.com/jpzk/opensidian) - A privacy-first, open-source platform for knowledge management and collaboration.
+
 ## open-source 
 
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
@@ -765,6 +777,8 @@
 
 ## others 
 
+- [Ansub/tv-detox](https://github.com/Ansub/tv-detox) - Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up
+- [bryanroscoe/shield_optimizer](https://github.com/bryanroscoe/shield_optimizer) - 
 - [devnulling/vrtgen](https://github.com/devnulling/vrtgen) - 
 - [alphafox02/openwrt-one-sdr](https://github.com/alphafox02/openwrt-one-sdr) - Wideband IQ SDR on the OpenWrt One (MediaTek MT7981): 40 MSps 14-bit VITA 49 capture streamed over 2.5 GbE, with a live spectrum viewer.
 - [acherkashin/gitea-review-example](https://github.com/acherkashin/gitea-review-example) - 
@@ -972,6 +986,7 @@
 
 ## rust 
 
+- [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
