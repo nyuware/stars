@@ -164,6 +164,7 @@
 
 ## Java 
 
+- [Ansub/tv-detox](https://github.com/Ansub/tv-detox) - Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up
 - [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - The self-hosted AI workflow automation platform for Git repositories.
 - [hawolt/twitch-adblock](https://github.com/hawolt/twitch-adblock) - 
 - [cpburnz/minecraft-prometheus-exporter](https://github.com/cpburnz/minecraft-prometheus-exporter) - Prometheus exporter for Minecraft.
@@ -255,6 +256,9 @@
 
 ## Rust 
 
+- [jpzk/opensidian](https://github.com/jpzk/opensidian) - A privacy-first, open-source platform for knowledge management and collaboration.
+- [bryanroscoe/shield_optimizer](https://github.com/bryanroscoe/shield_optimizer) - 
+- [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [mmalmi/nostr-vpn](https://github.com/mmalmi/nostr-vpn) - 
