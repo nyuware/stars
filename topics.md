@@ -781,6 +781,7 @@
 
 ## others 
 
+- [google-research/harness2](https://github.com/google-research/harness2) - 
 - [Ansub/tv-detox](https://github.com/Ansub/tv-detox) - Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up
 - [bryanroscoe/shield_optimizer](https://github.com/bryanroscoe/shield_optimizer) - 
 - [devnulling/vrtgen](https://github.com/devnulling/vrtgen) - 
