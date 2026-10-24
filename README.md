@@ -172,6 +172,7 @@
 
 ## JavaScript 
 
+- [jpzk/opensidian](https://github.com/jpzk/opensidian) - A privacy-first, open-source platform for knowledge management and collaboration.
 - [pixlcore/xyops](https://github.com/pixlcore/xyops) - The next generation of Cronicle: open-source job scheduling, visual workflows, server monitoring, alerting, and incident response.
 - [xaitax/x-account-location-device](https://github.com/xaitax/x-account-location-device) - See where any X (Twitter) account posts from and on what device — country flags, device icons & VPN/proxy detection inline on every username. One-click "evidence" cards for OSINT, geo-blocking to filt
 - [nolenroyalty/url-muncher](https://github.com/nolenroyalty/url-muncher) - a little goblin that eats your URL bar
@@ -257,7 +258,6 @@
 
 ## Rust 
 
-- [jpzk/opensidian](https://github.com/jpzk/opensidian) - A privacy-first, open-source platform for knowledge management and collaboration.
 - [bryanroscoe/shield_optimizer](https://github.com/bryanroscoe/shield_optimizer) - 
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
