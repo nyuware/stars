@@ -781,6 +781,8 @@
 
 ## others 
 
+- [grafana/gcx](https://github.com/grafana/gcx) - A CLI for managing Grafana and Grafana Cloud resources. Optimized for agentic usage.
+- [tals/corgi](https://github.com/tals/corgi) - Happy helper for your terminal
 - [google-research/harness2](https://github.com/google-research/harness2) - 
 - [Ansub/tv-detox](https://github.com/Ansub/tv-detox) - Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up
 - [bryanroscoe/shield_optimizer](https://github.com/bryanroscoe/shield_optimizer) - 
