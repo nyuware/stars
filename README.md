@@ -174,7 +174,7 @@
 
 ## JavaScript 
 
-- [jpzk/opensidian](https://github.com/jpzk/opensidian) - A privacy-first, open-source platform for knowledge management and collaboration.
+- [jpzk/opensidian](https://github.com/jpzk/opensidian) - A privacy-first, open-source, markdown PKM tool with graphs, canvas and community plugins
 - [pixlcore/xyops](https://github.com/pixlcore/xyops) - The next generation of Cronicle: open-source job scheduling, visual workflows, server monitoring, alerting, and incident response.
 - [xaitax/x-account-location-device](https://github.com/xaitax/x-account-location-device) - See where any X (Twitter) account posts from and on what device — country flags, device icons & VPN/proxy detection inline on every username. One-click "evidence" cards for OSINT, geo-blocking to filt
 - [nolenroyalty/url-muncher](https://github.com/nolenroyalty/url-muncher) - a little goblin that eats your URL bar
