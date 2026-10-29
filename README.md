@@ -96,7 +96,8 @@
 
 ## Go 
 
-- [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) - Open-source (Apache-2.0) orchestrator for Claude Code, Codex & 30+ coding agents. Plan, run and supervise agent teams from task to merged PR. Desktop (macOS, Windows, Linux) + iPhone & Android apps.
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
+- [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) - Plan, run and supervise fleets of agents from task to merged PR. Desktop (macOS, Windows, Linux) + iPhone & Android apps.  Supports Claude Code, Codex & 35+ coding agents.
 - [grafana/gcx](https://github.com/grafana/gcx) - A CLI for managing Grafana and Grafana Cloud resources. Optimized for agentic usage.
 - [docker/docker-agent](https://github.com/docker/docker-agent) - AI Agent Builder and Runtime by Docker Engineering
 - [mtlynch/picoshare](https://github.com/mtlynch/picoshare) - A minimalist, easy-to-host service for sharing images and other files
@@ -174,6 +175,7 @@
 
 ## JavaScript 
 
+- [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) - An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 - [jpzk/opensidian](https://github.com/jpzk/opensidian) - A privacy-first, open-source, markdown PKM tool with graphs, canvas and community plugins
 - [pixlcore/xyops](https://github.com/pixlcore/xyops) - The next generation of Cronicle: open-source job scheduling, visual workflows, server monitoring, alerting, and incident response.
 - [xaitax/x-account-location-device](https://github.com/xaitax/x-account-location-device) - See where any X (Twitter) account posts from and on what device — country flags, device icons & VPN/proxy detection inline on every username. One-click "evidence" cards for OSINT, geo-blocking to filt
@@ -229,7 +231,7 @@
 - [platomav/BIOSUtilities](https://github.com/platomav/BIOSUtilities) - Collection of various BIOS/UEFI-related utilities which aid in research and/or modding purposes.
 - [theopolis/uefi-firmware-parser](https://github.com/theopolis/uefi-firmware-parser) - Parse BIOS/Intel ME/UEFI firmware related structures: Volumes, FileSystems, Files, etc
 - [element-hq/synapse](https://github.com/element-hq/synapse) - Synapse: Matrix homeserver written in Python/Twisted + Rust
-- [aclist/dztui](https://github.com/aclist/dztui) - DayZ GUI server browser and mod manager for Linux
+- [aclist/dzgui](https://github.com/aclist/dzgui) - DayZ GUI server browser and mod manager for Linux
 - [onekey-sec/unblob](https://github.com/onekey-sec/unblob) - Extract files from any kind of container formats
 - [root-tanishq/userefuzz](https://github.com/root-tanishq/userefuzz) - User-Agent , X-Forwarded-For and Referer SQLI Fuzzer
 - [a13xp0p0v/kernel-hardening-checker](https://github.com/a13xp0p0v/kernel-hardening-checker) - A tool for checking the security hardening options of the Linux kernel
@@ -353,6 +355,7 @@
 
 ## TypeScript 
 
+- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [tals/corgi](https://github.com/tals/corgi) - Happy helper for your terminal
 - [copperheadhq/copperhead](https://github.com/copperheadhq/copperhead) - Hardware as fast as software.
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
