@@ -44,6 +44,7 @@
 
 ## C 
 
+- [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) - Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
 - [alphafox02/openwrt-one-sdr](https://github.com/alphafox02/openwrt-one-sdr) - Wideband IQ SDR on the OpenWrt One (MediaTek MT7981): 40 MSps 14-bit VITA 49 capture streamed over 2.5 GbE, with a live spectrum viewer.
 - [dmtrKovalenko/workspace-climate-control](https://github.com/dmtrKovalenko/workspace-climate-control) - Your own open-source CO2 sensor with ready to use TUI
 - [emproof-com/workshop_firmware_reverse_engineering](https://github.com/emproof-com/workshop_firmware_reverse_engineering) - Workshop on firmware reverse engineering
