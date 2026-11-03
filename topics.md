@@ -809,6 +809,7 @@
 
 ## others 
 
+- [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) - Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
 - [grafana/gcx](https://github.com/grafana/gcx) - A CLI for managing Grafana and Grafana Cloud resources. Optimized for agentic usage.
 - [tals/corgi](https://github.com/tals/corgi) - Happy helper for your terminal
 - [google-research/harness2](https://github.com/google-research/harness2) - 
