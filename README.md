@@ -267,7 +267,7 @@
 - [bryanroscoe/shield_optimizer](https://github.com/bryanroscoe/shield_optimizer) - 
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
-- [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
+- [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, observe, discover, and react to every service in real-time for the first time ever.
 - [mmalmi/nostr-vpn](https://github.com/mmalmi/nostr-vpn) - Private mesh VPN for humans and agents. Local keys, signed enrollment, no provider account. Native apps and CLI.
 - [Kopuz-org/kopuz](https://github.com/Kopuz-org/kopuz) - Your next music player
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
