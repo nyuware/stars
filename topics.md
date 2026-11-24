@@ -135,6 +135,7 @@
 - [security-tools](#security-tools)
 - [self-hosted](#self-hosted)
 - [server](#server)
+- [serverless](#serverless)
 - [shell](#shell)
 - [sketch](#sketch)
 - [skills](#skills)
@@ -789,6 +790,7 @@
 
 ## nodejs 
 
+- [rivet-dev/open-orange](https://github.com/rivet-dev/open-orange) - Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [copperheadhq/copperhead](https://github.com/copperheadhq/copperhead) - Hardware as fast as software.
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
@@ -1127,6 +1129,7 @@
 
 ## self-hosted 
 
+- [rivet-dev/open-orange](https://github.com/rivet-dev/open-orange) - Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.
 - [rustrak/rustrak](https://github.com/rustrak/rustrak) - Self-hosted, open-source Sentry alternative in Rust. Error tracking, performance, logs and AI agent traces in one small container that works with the Sentry SDKs. SQLite or PostgreSQL.
 - [lklynet/aurral](https://github.com/lklynet/aurral) - Find new music, get it, and play it, all on your own server.
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
@@ -1150,6 +1153,10 @@
 
 - [nuver-labs/vps-audit](https://github.com/nuver-labs/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
+
+## serverless 
+
+- [rivet-dev/open-orange](https://github.com/rivet-dev/open-orange) - Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.
 
 ## shell 
 
@@ -1176,6 +1183,7 @@
 
 ## sqlite 
 
+- [rivet-dev/open-orange](https://github.com/rivet-dev/open-orange) - Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.
 - [rustrak/rustrak](https://github.com/rustrak/rustrak) - Self-hosted, open-source Sentry alternative in Rust. Error tracking, performance, logs and AI agent traces in one small container that works with the Sentry SDKs. SQLite or PostgreSQL.
 - [xevrion/gyotaku](https://github.com/xevrion/gyotaku) - search every screenshot you've ever taken by the text inside it. native linux, offline, PaddleOCR + sqlite + gpui
 - [Ephemeral-AI-Lab/layerfs](https://github.com/Ephemeral-AI-Lab/layerfs) - Ephemeral Workspaces, durable shared history. LayerFS gives every agent a complete, writable filesystem Workspace over shared committed history, without copying the base. Agents work in parallel, comm
@@ -1239,6 +1247,7 @@
 
 ## typescript 
 
+- [rivet-dev/open-orange](https://github.com/rivet-dev/open-orange) - Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.
 - [copperheadhq/copperhead](https://github.com/copperheadhq/copperhead) - Hardware as fast as software.
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, observe, discover, and react to every service in real-time for the first time ever.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
