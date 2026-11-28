@@ -34,6 +34,7 @@
 - [cms](#cms)
 - [code-review](#code-review)
 - [command-line](#command-line)
+- [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
 - [cryptography](#cryptography)
 - [csharp](#csharp)
@@ -188,6 +189,7 @@
 
 ## ai 
 
+- [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) - Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-backed findings. Community continuation of Autumn-27/ARTEX, AGPL-3.0.
 - [jpzk/opensidian](https://github.com/jpzk/opensidian) - A privacy-first, open-source, markdown PKM tool with graphs, canvas and community plugins
 - [docker/docker-agent](https://github.com/docker/docker-agent) - AI Agent Builder and Runtime by Docker Engineering
 - [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
@@ -199,6 +201,7 @@
 
 ## ai-agents 
 
+- [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) - Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-backed findings. Community continuation of Autumn-27/ARTEX, AGPL-3.0.
 - [Ephemeral-AI-Lab/layerfs](https://github.com/Ephemeral-AI-Lab/layerfs) - Ephemeral Workspaces, durable shared history. LayerFS gives every agent a complete, writable filesystem Workspace over shared committed history, without copying the base. Agents work in parallel, comm
 - [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) - Plan, run and supervise fleets of agents from task to merged PR. Desktop (macOS, Windows, Linux) + iPhone & Android apps.  Supports Claude Code, Codex & 35+ coding agents.
 - [mmalmi/nostr-vpn](https://github.com/mmalmi/nostr-vpn) - Private mesh VPN for humans and agents. Local keys, signed enrollment, no provider account. Native apps and CLI.
@@ -307,6 +310,7 @@
 
 ## cli 
 
+- [dblock/already-tested](https://github.com/dblock/already-tested) - Skip duplicate CI with trusted, content-matched local-test claims. Native Rust binaries for Linux, macOS, and Windows.
 - [copperheadhq/copperhead](https://github.com/copperheadhq/copperhead) - Hardware as fast as software.
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - A tasteful, lean, fast & safe pure Rust implementation of Git
@@ -355,6 +359,10 @@
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+
+## continuous-integration 
+
+- [dblock/already-tested](https://github.com/dblock/already-tested) - Skip duplicate CI with trusted, content-matched local-test claims. Native Rust binaries for Linux, macOS, and Windows.
 
 ## cpp 
 
@@ -426,6 +434,8 @@
 
 ## docker 
 
+- [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
+- [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) - Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-backed findings. Community continuation of Autumn-27/ARTEX, AGPL-3.0.
 - [rustrak/rustrak](https://github.com/rustrak/rustrak) - Self-hosted, open-source Sentry alternative in Rust. Error tracking, performance, logs and AI agent traces in one small container that works with the Sentry SDKs. SQLite or PostgreSQL.
 - [lklynet/aurral](https://github.com/lklynet/aurral) - Find new music, get it, and play it, all on your own server.
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
@@ -524,6 +534,7 @@
 
 ## go 
 
+- [kubara-io/kubara](https://github.com/kubara-io/kubara) - A CLI and package manager for building, distributing, and bootstrapping multi-cluster Kubernetes platforms via pure GitOps.
 - [Ident-1090/Ident](https://github.com/Ident-1090/Ident) - Receiver-local ADS-B operator console for readsb, dump1090-fa, and PiAware.
 - [hellotimking/clog](https://github.com/hellotimking/clog) - A high-performance, real-time terminal dashboard for Caddy JSON logs. Features live RPS tracking, status code distribution, and latency analytics with near-zero CPU overhead.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
@@ -543,6 +554,8 @@
 
 ## golang 
 
+- [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) - Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-backed findings. Community continuation of Autumn-27/ARTEX, AGPL-3.0.
+- [kubara-io/kubara](https://github.com/kubara-io/kubara) - A CLI and package manager for building, distributing, and bootstrapping multi-cluster Kubernetes platforms via pure GitOps.
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
@@ -589,6 +602,7 @@
 
 ## hacktoberfest 
 
+- [kubara-io/kubara](https://github.com/kubara-io/kubara) - A CLI and package manager for building, distributing, and bootstrapping multi-cluster Kubernetes platforms via pure GitOps.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
@@ -683,6 +697,8 @@
 
 ## kubernetes 
 
+- [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
+- [kubara-io/kubara](https://github.com/kubara-io/kubara) - A CLI and package manager for building, distributing, and bootstrapping multi-cluster Kubernetes platforms via pure GitOps.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [iximiuz/cdebug](https://github.com/iximiuz/cdebug) - cdebug - a swiss army knife of container debugging
@@ -699,6 +715,8 @@
 
 ## linux 
 
+- [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
+- [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) - Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-backed findings. Community continuation of Autumn-27/ARTEX, AGPL-3.0.
 - [xevrion/gyotaku](https://github.com/xevrion/gyotaku) - search every screenshot you've ever taken by the text inside it. native linux, offline, PaddleOCR + sqlite + gpui
 - [Ephemeral-AI-Lab/layerfs](https://github.com/Ephemeral-AI-Lab/layerfs) - Ephemeral Workspaces, durable shared history. LayerFS gives every agent a complete, writable filesystem Workspace over shared committed history, without copying the base. Agents work in parallel, comm
 - [nuver-labs/vps-audit](https://github.com/nuver-labs/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
@@ -716,6 +734,7 @@
 
 ## llm 
 
+- [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) - Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-backed findings. Community continuation of Autumn-27/ARTEX, AGPL-3.0.
 - [Ephemeral-AI-Lab/layerfs](https://github.com/Ephemeral-AI-Lab/layerfs) - Ephemeral Workspaces, durable shared history. LayerFS gives every agent a complete, writable filesystem Workspace over shared committed history, without copying the base. Agents work in parallel, comm
 - [tmseidel/ai-git-bot](https://github.com/tmseidel/ai-git-bot) - The self-hosted AI workflow automation platform for Git repositories.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
@@ -726,6 +745,7 @@
 
 ## macos 
 
+- [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Beautiful music player for desktop & mobile.
@@ -736,6 +756,7 @@
 
 ## mcp 
 
+- [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) - Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-backed findings. Community continuation of Autumn-27/ARTEX, AGPL-3.0.
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
 
 ## microsoft 
@@ -786,6 +807,7 @@
 
 ## nextjs 
 
+- [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) - Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-backed findings. Community continuation of Autumn-27/ARTEX, AGPL-3.0.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 
 ## nodejs 
@@ -836,6 +858,7 @@
 
 ## others 
 
+- [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 - [calvindotnow/sshpick](https://github.com/calvindotnow/sshpick) - Quick SSH session tool
 - [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) - Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
 - [grafana/gcx](https://github.com/grafana/gcx) - A CLI for managing Grafana and Grafana Cloud resources. Optimized for agentic usage.
@@ -938,6 +961,7 @@
 
 ## penetration-testing 
 
+- [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) - Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-backed findings. Community continuation of Autumn-27/ARTEX, AGPL-3.0.
 - [gotr00t0day/Gsec](https://github.com/gotr00t0day/Gsec) - Web Security Scanner
 - [LucasFaudman/apkscan](https://github.com/LucasFaudman/apkscan) - Scan for secrets, endpoints, and other sensitive data after decompiling and deobfuscating Android files. (.apk, .xapk, .dex, .jar, .class, .smali, .zip, .aar, .arsc, .aab, .jadx.kts).
 - [root-tanishq/userefuzz](https://github.com/root-tanishq/userefuzz) - User-Agent , X-Forwarded-For and Referer SQLI Fuzzer
@@ -953,6 +977,7 @@
 
 ## postgresql 
 
+- [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) - Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-backed findings. Community continuation of Autumn-27/ARTEX, AGPL-3.0.
 - [rustrak/rustrak](https://github.com/rustrak/rustrak) - Self-hosted, open-source Sentry alternative in Rust. Error tracking, performance, logs and AI agent traces in one small container that works with the Sentry SDKs. SQLite or PostgreSQL.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
@@ -1049,6 +1074,7 @@
 
 ## rust 
 
+- [dblock/already-tested](https://github.com/dblock/already-tested) - Skip duplicate CI with trusted, content-matched local-test claims. Native Rust binaries for Linux, macOS, and Windows.
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [rustrak/rustrak](https://github.com/rustrak/rustrak) - Self-hosted, open-source Sentry alternative in Rust. Error tracking, performance, logs and AI agent traces in one small container that works with the Sentry SDKs. SQLite or PostgreSQL.
 - [xevrion/gyotaku](https://github.com/xevrion/gyotaku) - search every screenshot you've ever taken by the text inside it. native linux, offline, PaddleOCR + sqlite + gpui
@@ -1095,6 +1121,7 @@
 
 ## security 
 
+- [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) - Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-backed findings. Community continuation of Autumn-27/ARTEX, AGPL-3.0.
 - [altcha-org/altcha](https://github.com/altcha-org/altcha) - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism.
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [nuver-labs/vps-audit](https://github.com/nuver-labs/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
@@ -1185,6 +1212,7 @@
 
 ## sqlite 
 
+- [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) - Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-backed findings. Community continuation of Autumn-27/ARTEX, AGPL-3.0.
 - [rivet-dev/open-orange](https://github.com/rivet-dev/open-orange) - Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.
 - [rustrak/rustrak](https://github.com/rustrak/rustrak) - Self-hosted, open-source Sentry alternative in Rust. Error tracking, performance, logs and AI agent traces in one small container that works with the Sentry SDKs. SQLite or PostgreSQL.
 - [xevrion/gyotaku](https://github.com/xevrion/gyotaku) - search every screenshot you've ever taken by the text inside it. native linux, offline, PaddleOCR + sqlite + gpui
@@ -1249,6 +1277,7 @@
 
 ## typescript 
 
+- [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) - Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-backed findings. Community continuation of Autumn-27/ARTEX, AGPL-3.0.
 - [rivet-dev/open-orange](https://github.com/rivet-dev/open-orange) - Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.
 - [copperheadhq/copperhead](https://github.com/copperheadhq/copperhead) - Hardware as fast as software.
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, observe, discover, and react to every service in real-time for the first time ever.
@@ -1313,6 +1342,7 @@
 
 ## windows 
 
+- [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [okibcn/nano-for-windows](https://github.com/okibcn/nano-for-windows) - Windows version of the GNU Nano editor
 - [GSDragoon/RadeonSoftwareSlimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) - Radeon Software Slimmer is a utility to trim down the bloat with Radeon Software for AMD GPUs on Microsoft Windows.
